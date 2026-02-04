@@ -80,6 +80,13 @@ img {
 /* Hint text */
 .timeline-hint { margin-top:0.75rem; color:#6b7280; font-size:0.9rem; text-align:center;}
 
+/* More info section */
+.info-title i {
+  font-size: 200px;
+  color: #0a6ad1;
+  margin-right: 0.5rem;
+}
+
 /* FOOTER */
 .site-footer { 
   border-top:1px solid #e6eef3; 
